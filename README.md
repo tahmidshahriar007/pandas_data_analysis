@@ -1,4 +1,4 @@
-# 🚕 NYC Taxi Revenue & Tipping Analysis
+## 🚕 NYC Taxi Revenue & Tipping Analysis
 
 > **Executive Summary:** An end-to-end data analysis project using Pandas to clean raw NYC taxi trip records, engineer trip duration/cost metrics, and uncover revenue patterns across boroughs.
 
